@@ -1,0 +1,20 @@
+{
+  "name": "@backlight-dev/another-one.vue3-2htyduyqgkxfz785n",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve 6C1NKp1odphiBEWOzkEb --open"
+  },
+  "dependencies": {
+    "@babel/runtime": "latest",
+    "vue": "^3.1.4"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.1.9",
+    "lit-html": "^1.4.1",
+    "prettier": "^2.3.2"
+  }
+}

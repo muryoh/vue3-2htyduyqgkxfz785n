@@ -1,0 +1,34 @@
+{
+  "packages": {
+    "dir": "",
+    "menu": [
+      [
+        "tokens",
+        [
+          "typography",
+          "colors",
+          "spacing",
+          "roundness",
+          "elevation",
+          "border-radius",
+          "transition",
+          "z-index",
+          "theme"
+        ]
+      ],
+      [
+        "components",
+        [
+          "button",
+          "select"
+        ]
+      ],
+      [
+        "dockit",
+        [
+          "md-layout"
+        ]
+      ]
+    ]
+  }
+}
